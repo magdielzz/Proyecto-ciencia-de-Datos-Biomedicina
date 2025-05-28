@@ -37,6 +37,7 @@ El proyecto sigue un flujo de trabajo de ciencia de datos modular y reproducible
 - **`Tiempo de Espera y Diagnóstico Tardío en Pacientes con Enfermedades Crónicas 2.ipynb`**: Jupyter Notebook con el código completo, incluyendo adquisición de datos, preprocesamiento, EDA, modelado y análisis SHAP.
 - **`Análisis_de_Estancias_Hospitalarias_Prolongadas_para_México_con_Ciencia_de_Datos.pdf`**: Informe detallado del proyecto, con objetivos, metodología, resultados y referencias.
 - **`imagenes/`**: Carpeta con visualizaciones generadas (histogramas, boxplots, gráficos SHAP, etc.).
+- **`data/`**: Carpeta con el dataset en caso de no estar disponible en Kaggle.
 - **`requirements.txt`**: Lista de librerías Python necesarias para ejecutar el proyecto.
 - **`README.md`**: Este archivo, con la descripción del proyecto y las instrucciones de configuración.
 
